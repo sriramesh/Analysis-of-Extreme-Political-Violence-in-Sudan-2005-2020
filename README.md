@@ -1,6 +1,6 @@
 # An Analysis of Extreme Political Violence in Post-CPA Sudan (2005-2020)
 
-**This repository contains files for my lightning talk at UC GIS Week 2020**
+**This repository contains files for my lightning talk at UC GIS Week on Nov 18, 2020**
 
 2005 marked the end of two decades of civil conflict in Sudan with the signing of the Comprehensive Peace Agreement (CPA), signaling what should have been a comprehensive, lasting solution to the conflict that had divided north and south Sudan until that time. Since 2005, however, Sudan has faced a litany of political challenges; some of these include the 2011 cessation of the south provinces and creation of the world's newest nation, South Sudan, the significant geopolitical tensions in 'Two Areas' states, the ongoing genocide in Darfur, and the 2019 civilian revolution overthrowing Sudan's longstanding despot Omar al-Bashir.
 
